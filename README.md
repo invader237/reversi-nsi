@@ -17,16 +17,13 @@ Installation
 
 Firstly clone the repository by copying this command into a command prompt.
 ```
-git clone https://github.com/Philou-py/reversi-nsi.git
+git clone https://github.com/invader237/reversi-nsi.git
 ```
 now move to the file where the code is located by executing
 ```
 cd reversi-nsi
 ```
-then you must go to the "main2" branch so type:
-```
-git switch main2
-```
+
 Now you are in the right place, you have access to the code. Run the following command to install the libraries
 ```
 pip install -r requirements.txt
