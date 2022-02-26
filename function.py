@@ -1,8 +1,12 @@
+
+#==================
+#This file contains all the functions necessary for the good functioning of the game
+#==================
+
 from colorama import init, Fore
 from os import system, name as os_name
 from typing import Literal
 import datetime
-
 
 #Initialise the `colorama` library to apply properly the colours in the future
 init()
@@ -265,7 +269,7 @@ def clearScreen():
 
     Input: none.
 
-    Returns: none
+    Returns: none.
 
     Local variables: none.
     """""
