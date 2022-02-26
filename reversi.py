@@ -1,3 +1,8 @@
+
+#==================
+#This file contains all the logic of the game and is responsible for calling the right function at the right time
+#==================
+
 import function
 import loadingscreen
 import shutil, os
