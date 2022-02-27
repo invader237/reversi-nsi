@@ -50,4 +50,3 @@ Support
 -------
 The most recurring problems are related to the display of the game. If this happens restart the game with ctrl + c . If the problem persists after restarting the game several times or for any other problem you can open an issue
 
-
